@@ -1,0 +1,13 @@
+_ReSharper.Autofac Tutorial/
+SomeTask/obj/
+SomeTask/bin/
+SomeTask.Test/obj/
+SomeTask.Test/bin/
+packages/
+Autofac Tutorial/obj/
+Autofac Tutorial.Behavioral.Test/bin/
+Autofac Tutorial.Test/obj/
+Autofac Tutorial/bin/
+Autofac Tutorial.Behavioral.Test/obj/
+PrototypeService/obj/
+PrototypeService/bin/
